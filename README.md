@@ -1,4 +1,4 @@
-* SBA 5. This is a blog posting site. You can set a title of your post and post your thoughts for all to see. You can edit your posts or delete your posts. Posts persist after page reload or when you open your page later.
+# SBA 5. This is a blog posting site. You can set a title of your post and post your thoughts for all to see. You can edit your posts or delete your posts. Posts persist after page reload or when you open your page later.
 
 A reflection on your development process, challenges faced, and how you overcame them.
 Any known issues or features not implemented.
